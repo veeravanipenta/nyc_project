@@ -7,6 +7,9 @@ This project aims to predict the duration of NYC taxi trips using machine learni
 ### **`main.py`**:
 The main.py file Python script that handles the Streamlit web application for interaction with the models.
 
+![image](https://github.com/user-attachments/assets/1c0e1587-f76e-47fd-8096-dee61eb7162e)
+
+
 ### **`NYC_Taxi_Trip_Duration_Actual.twb`**:
 A Tableau workbook for visualizing the NYC taxi trip data. It contains interactive dashboards and graphs for analyzing trip durations, identifying patterns, and gaining insights into the data.
 
